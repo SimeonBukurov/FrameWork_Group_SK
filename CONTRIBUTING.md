@@ -4,6 +4,7 @@
 
 This project follows a strict ownership policy to minimize merge conflicts.
 
+
 ```
 PROJECT_ROOT
 │
